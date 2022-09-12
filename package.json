@@ -1,0 +1,23 @@
+{
+  "name": "tareas-hora",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.0.17",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^7.0.0-beta.4",
+    "prettier": "^2.7.1",
+    "vite": "^3.0.0"
+  }
+}
